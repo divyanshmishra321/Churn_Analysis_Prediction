@@ -40,15 +40,23 @@ Customer churn is a critical challenge for many businesses. This project leverag
 
 ---
 
+## ✨ Dashboard Snapshots
+
+#### 📊 Summary Analysis View
+![TELECOM CHURN ANALYSIS - SUMMARY VIEW](Dashboard-Summary-Page.jpg)
+
+#### 📈 Prediction Profiles View
+![CHURN ANALYSIS - PREDICTION](Dashboard-Prediction-Page.jpg)
+
+---
+
 ## 📚 How to Use
 
 1. Clone this repository  
 2. Ensure required packages are installed:
-
     ```
     pip install pandas numpy scikit-learn matplotlib seaborn openpyxl
     ```
-
 3. Run the main Python script to:  
    - Train and evaluate the Random Forest model  
    - Generate predictions on new data  
@@ -82,3 +90,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙌 Contact
 
 Feel free to reach out for collaborations or questions!
+
