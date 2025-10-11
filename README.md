@@ -42,10 +42,10 @@ Customer churn is a critical challenge for many businesses. This project leverag
 
 ## ✨ Dashboard Snapshots
 
-#### 📊 Summary Analysis View
-![TELECOM CHURN ANALYSIS - SUMMARY VIEW](Dashboard-Summary-Page.png)
+#### 📊 Prediction Profiles View
+![TELECOM CHURN ANALYSIS - PREDICTION VIEW](Dashboard-Summary-Page.png)
 
-#### 📈 Prediction Profiles View
+#### 📈 Summary Analysis View
 ![CHURN ANALYSIS - PREDICTION](Dashboard-Prediction-Page.png)
 
 ---
